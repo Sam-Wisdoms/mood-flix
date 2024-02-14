@@ -192,3 +192,5 @@ function showBookContainer(
 }
 
 showBooksItems(randomCategoryName)
+
+console.log('test')
